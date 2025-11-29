@@ -1,6 +1,5 @@
 
-<img width="512" height="512" alt="android-chrome-512x512" src="https://github.com/user-attachments/assets/e7554974-6b53-4fe9-9ebf-1c7680da6f6b" />
-
+<img width="200" height="200" alt="1763891241806" src="https://github.com/user-attachments/assets/a5c6977f-4688-4409-83ee-fd4138c92ba7" />
 
 # Le Meilleur de la Data & l’IA  
 **Apprends. Comprends. Construis.**  
@@ -21,7 +20,7 @@ Chaque édition contient :
 ---
 
 ## À propos de l’auteur 
-<img width="200" height="200" alt="1762874312103" src="https://github.com/user-attachments/assets/3875eb48-0e06-4a60-9211-caabda901d3a" /> 
+<img width="800" height="800" alt="1762874312103" src="https://github.com/user-attachments/assets/856b15da-2c2e-42d9-9be0-74d2089d469c" />
 **Jean Bosco Ninkam Noumssi (JB)**  
 Consultant & Formateur en Data Engineering  
 Spécialiste en pipelines Data, automatisation et déploiement de solutions IA fiables et scalables.
@@ -36,8 +35,7 @@ J’accompagne entreprises et équipes techniques dans :
 
 ## S’abonner  
 Tu peux t’abonner pour recevoir chaque nouvelle édition dès sa publication :  
-**[Lien d’abonnement à la newsletter](https://newsletter.codeavecjb.com/)** 
-<img width="32" height="32" alt="favicon-32x32" src="https://github.com/user-attachments/assets/2029fc72-c357-4c62-b1f0-36220b8fa67b" />
+**[Lien d’abonnement à la newsletter](https://newsletter.codeavecjb.com/)**  
 
 
 ---
