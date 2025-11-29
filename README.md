@@ -1,5 +1,5 @@
 
-<img width="200" height="200" alt="1763891241806" src="d" />
+<img width="200" height="200" alt="1763891241806" src="https://github.com/user-attachments/assets/a5c6977f-4688-4409-83ee-fd4138c92ba7" />
 
 # Le Meilleur de la Data & l’IA  
 **Apprends. Comprends. Construis.**  
