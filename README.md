@@ -35,7 +35,8 @@ J’accompagne entreprises et équipes techniques dans :
 
 ## S’abonner  
 Tu peux t’abonner pour recevoir chaque nouvelle édition dès sa publication :  
-**[Lien d’abonnement à la newsletter](https://newsletter.codeavecjb.com/)**  
+**[Lien d’abonnement à la newsletter](https://newsletter.codeavecjb.com/)**  <img width="32" height="32" alt="favicon-32x32" src="https://github.com/user-attachments/assets/62dbbc02-e7bf-473d-b450-ce702b9425bf" />
+
 
 
 ---
